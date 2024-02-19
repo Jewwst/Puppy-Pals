@@ -9,7 +9,6 @@ function App() {
   console.log(puppies)
 
   function handleClick() {
-    
   }
 
   const featuredPup = puppies.find((pup)=> pup.id === featPupId)
